@@ -10,7 +10,7 @@ A C++ console application that simulates a ride-sharing platform (Uber/Careem st
 - **User profiles and ratings:** manages rider/driver profiles and average ratings
 - **In-transit telematics:** tracks trip progress while a ride is underway
 
-> Status: in development. Not all features are implemented yet.
+> Status: in development.
 
 ## OOP Concepts Used
 
