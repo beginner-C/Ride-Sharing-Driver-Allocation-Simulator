@@ -60,8 +60,8 @@ g++ -std=c++17 -Iinclude src/*.cpp -o simulator
 ## Authors
 
 
-Sharjeel Hassan
-Minhal Aqeel
-Jibran Ahmad Ch
-Fatima Iqbal
-Anfal Babar
+- Sharjeel Hassan
+- Minhal Aqeel
+- Jibran Ahmad Ch
+- Fatima Iqbal
+- Anfal Babar
